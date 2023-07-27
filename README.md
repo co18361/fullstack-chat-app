@@ -5,11 +5,11 @@
 * Back-end made with nodeJs and express, with DB support for mongoDB
 
 # Client Side:
--> npm start - to run 
--> npm build - to build
+*  npm start - to run 
+*  npm build - to build
 
 # Server Side: 
--> npm run dev
+* npm run dev
 
 # Pre-Requisites :
 * Need to create and environment file server side and assign DB_URI and other env variables values
